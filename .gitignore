@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.venv/
+venv/
+env/
+*.env
+
+# Build / dist artifacts
+build/
+dist/
+*.spec
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
+*.xlsx~
+
+# IDEs
+.vscode/
+.idea/
