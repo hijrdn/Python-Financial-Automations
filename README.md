@@ -5,3 +5,8 @@ Automating manual financial processes with Python to reduce data entry errors &a
 | Tool | Description |
 |------|--------------|
 | [AutoJournal App](./autojournal_app/README.md) | Automates Excel → FIS Banner journal entry |
+
+Each folder contains its own README and requirements file.
+
+**License:** MIT  
+**Author:** Jordan Taylor
